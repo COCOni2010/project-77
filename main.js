@@ -1,0 +1,16 @@
+var first_name="Nihit";
+var last_name="Barve";
+var full_name=first_name.concat(last_name);
+console.log(full_name);
+var a= 10;
+var b= 5;
+console.log(a);
+console.log(b);
+var add= a + b;
+var sub= a - b;
+var mul= a * b;
+var div= a / b;
+console.log(add);
+console.log(sub);
+console.log(mul);
+console.log(div);
